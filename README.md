@@ -4,7 +4,7 @@
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=seitamnn&rank_icon=github&show_icons=true&theme=tokyonight" />
-</a>
+</a> <br><br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seitamnn&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
 </a>
