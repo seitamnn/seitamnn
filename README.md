@@ -2,8 +2,7 @@
 ## 🖤 Things I keep close to my heart:  cats, accessibility and horror aesthetics 🖤
 ## 🖤 Currently working on becoming the master of C-language 🖤
 
-![Seitamnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=seitamnn&show_icons=true&theme=tokyonight)<!--
-**seitamnn/seitamnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Seitamnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=seitamnn&show_icons=false&theme=tokyonight)
 
 Here are some ideas to get you started:
 
